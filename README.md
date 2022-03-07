@@ -19,7 +19,7 @@
 
 ## 2. 나의 소개 발표 동영상
 나의 소개 동영상입니다.
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>
+
 
 
 
@@ -29,8 +29,8 @@
 
 ||과목 |기간|개요 |
 |1|[git](https://youknowkim.github.io/subject/github)|2022년 3월|git 사용법 |
-|2|[java]()|20xx년 3월|java 기초|
-|3|[SQL]()|20xx년 4월|sql 기초 |
+|2|[java]()|2022년 3월|java 기초|
+|3|[SQL]()|2022년 4월|sql 기초 |
 |||||
 |||||
 |||||
