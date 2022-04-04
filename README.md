@@ -29,7 +29,7 @@
 
 ||과목 |기간|개요 |
 |1|[git](https://youknowkim.github.io/subject/github/)|2022년 3월|git 사용법 |
-|2|[java]()|2022년 3월|java 기초|
+|2|[java](https://youknowkim.github.io/subject/java/)|2022년 3월|java 기초|
 |3|[SQL]()|2022년 4월|sql 기초 |
 |||||
 |||||
